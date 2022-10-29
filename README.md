@@ -63,14 +63,14 @@
 ![image info](img/yb.png)
 
 - **[Important Website For Bengali Learning Programming And Coding ▶](https://www.sattacademy.com/index.php)**
-![image info](img/sattacademy.PNG)
+![image info](img/sattacademy.png)
 
 - **[One Of The Most Important Unique Website For Learning Web-Development ▶](https://www.quackit.com/)**
-![image info](img/Quackit.PNG)
+![image info](img/Quackit.png)
 
 
 - **[Improtant Hidden WebSite For Learning Programming ▶](https://devdocs.io/)**
-![image info](img/dev-docs.PNG)
+![image info](img/dev-docs.png)
 
 
 
@@ -117,7 +117,7 @@
 ![image info](img/css-1.png)
 
 - **[ Guess CSS! ▶](https://www.guess-css.app/)**
-![image info](img/css-2.PNG)
+![image info](img/css-2.png)
 
 - **[ Speedrun CSS ▶](https://css-speedrun.netlify.app/)**
 ![image info](img/css-3.png)
@@ -193,19 +193,19 @@
 ![image info](img/font-1.png)
 
 - **[ Google Web Fonts 101Fonts.com ▶](https://www.1001fonts.com/google-web-fonts.html)**
-![image info](img/font-2.PNG)
+![image info](img/font-2.png)
 
 
 - **[ DaFont One Of The Popular Website For Provide Free Awesome Font ▶](https://www.dafont.com/)**
-![image info](img/font-3.PNG)
+![image info](img/font-3.png)
 
 
 - **[ FontSpace ▶](https://www.fontspace.com/popular/fonts)**
-![image info](img/font-4.PNG)
+![image info](img/font-4.png)
 
 
 - **[ FontAwesome Most Popular Website For Provide Free Icons ▶](https://fontawesome.com/)**
-![image info](img/icon-1.PNG)
+![image info](img/icon-1.png)
 
 
 ```
@@ -218,7 +218,7 @@
 
 
 - **[ HeroIcons ▶](https://heroicons.com/)**
-![image info](img/icon-2.PNG)
+![image info](img/icon-2.png)
 
 
 - **[ IcoNic App ▶](https://iconic.app/)**
@@ -226,7 +226,7 @@
 
 
 - **[ FlatIcon One Of The Most Popular Website For Downloade Free Image,png,icons,vectors ▶](https://www.flaticon.com/)**
-![image info](img/icon-4.PNG)
+![image info](img/icon-4.png)
 
 
 - **[ ionIcons My Favorite Free Awesome icon Download WebSite  ▶](https://ionic.io/ionicons)**
@@ -243,31 +243,31 @@
 <ion-icon name="heart-sharp"></ion-icon> <!--sharp-->
 ```
 
-![image info](img/icon-11.PNG)
+![image info](img/icon-11.png)
 
 
 - **[ FeatherIcons ▶](https://feathericons.com/)**
-![image info](img/icon-5.PNG)
+![image info](img/icon-5.png)
 
 
 - **[ TableIcons ▶](https://tablericons.com/)**
-![image info](img/icon-6.PNG)
+![image info](img/icon-6.png)
 
 
 - **[ SimpleIcons ▶](https://simpleicons.org/)**
-![image info](img/icon-7.PNG)
+![image info](img/icon-7.png)
 
 
 - **[ Eva Icons ▶](https://akveo.github.io/eva-icons/#/)**
-![image info](img/icon-8.PNG)
+![image info](img/icon-8.png)
 
 
 - **[ icoMoon ▶](https://icomoon.io/app/#/select)**
-![image info](img/icon-9.PNG)
+![image info](img/icon-9.png)
 
 
 - **[ Icons8 This Website Provide Free Awesome Icons Add Also Provide Graphic Design All Resourcees ▶](https://icons8.com/icons)**
-![image info](img/icon-10.PNG)
+![image info](img/icon-10.png)
 
 
 
@@ -523,22 +523,6 @@ On each page you will find a lesson and an exercise. Answer the task directly on
 
 
 #### [Go to top:arrow_up: ](#top)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
