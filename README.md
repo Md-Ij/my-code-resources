@@ -63,14 +63,14 @@
 ![image info](img/yb.png)
 
 - **[Important Website For Bengali Learning Programming And Coding ▶](https://www.sattacademy.com/index.php)**
-![image info](img/sattacademy.png)
+![sattacademy](https://user-images.githubusercontent.com/106918656/198848243-b4affb90-8c15-4e84-90be-011fd5892bcf.PNG)
 
 - **[One Of The Most Important Unique Website For Learning Web-Development ▶](https://www.quackit.com/)**
-![image info](img/Quackit.png)
+![Quackit](https://user-images.githubusercontent.com/106918656/198848240-dbbadc24-d611-4827-90da-26da2c6402ac.PNG)
 
 
 - **[Improtant Hidden WebSite For Learning Programming ▶](https://devdocs.io/)**
-![image info](img/dev-docs.png)
+![dev-docs](https://user-images.githubusercontent.com/106918656/198848207-b8963f6d-c069-42cb-8338-010a7854652d.png)
 
 
 
