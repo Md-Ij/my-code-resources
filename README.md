@@ -202,7 +202,7 @@
 
 - **[ Color Hunt ▶](https://colorhunt.co/)**
 
-![image info](img/css-cc-5.png)
+![css-cc-5](https://user-images.githubusercontent.com/106918656/198850121-d2539583-b122-4425-8da6-f8060fd7eb9a.png)
 
 
 
