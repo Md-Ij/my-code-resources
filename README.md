@@ -332,6 +332,11 @@
 ![image info](img/gd-4.png)
 
 
+- **[storyset ▶](https://storyset.com/)**
+
+>Awesome free customizable illustrations for your next project
+
+![gd-5](https://user-images.githubusercontent.com/106918656/198886747-5f7ffbc4-6715-4877-958b-fcbc43d84db4.png)
 
 
 
