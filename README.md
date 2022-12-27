@@ -188,7 +188,7 @@
 
 ![css-cc-1](https://user-images.githubusercontent.com/106918656/198848197-5f0bbbbb-9f83-402a-b9c7-d8379b8574c1.PNG)
 
-- **[Coolors.Co Modern Awesome Color Palettes ▶](https://palettes.shecodes.io/](https://coolors.co/)**
+- **[Coolors.Co Modern Awesome Color Palettes ▶](https://coolors.co/)**
 
 ![css-cc-2](https://user-images.githubusercontent.com/106918656/198848198-7fe89241-2f69-4dd2-91e8-87b2cca7511c.PNG)
 
